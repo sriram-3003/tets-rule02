@@ -1,0 +1,12 @@
+{
+  "name": "tets-rule02",
+  "version": "1.0.0",
+  "description": "Sample JavaScript app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
